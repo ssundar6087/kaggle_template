@@ -5,6 +5,7 @@ This repository can be used as a starter for contests on kaggle. It has placehol
 
 ## Directory Structure:
 - data
+    -  file_list.md
 - src
     - utils.py
     - train.py
@@ -13,7 +14,10 @@ This repository can be used as a starter for contests on kaggle. It has placehol
     - config.py
     - create_folds.py
 - saved_models
+    -  model_list.md
 - notebooks
+    - check_logging.ipynb
+    - eda.ipynb
 - references
     - list.md
 - requirements.txt
